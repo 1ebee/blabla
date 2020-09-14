@@ -21,12 +21,10 @@ nav li{
 }
 .mainblock{
 }
-main {
-    margin:300px 0;
-}
 .dunk1{
  border: 5px;
- border-color:teal
+ border-color:teal;
+ margin:150px 20px;
 }
 }
 article{
