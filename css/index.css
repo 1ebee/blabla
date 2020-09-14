@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(45, 53, 61);
+    }
+
+header{
+    color: palevioletred;
+}
+.gallery{
+    font-size: 2rem;
+    color: wheat;
+    text-align: center;
+}
+.titlewithimg{
+    text-align: right
+}
+nav li{
+	list-style: none;
+	padding: 0 30px;
+    float: right;
+    color:wheat;
+}
+.mainblock{
+}
+main {
+    margin:300px 0;
+}
+.dunk1{
+ border: 5px;
+ border-color:teal
+}
+}
+article{
+    text-align: center;
+}
+.article{
+    color:wheat
+}
+.articlep{
+    color:white;
+}
+.img{
+ display: inline-block
+}
+img{
+    width:600px;
+    margin:20px
+}
+.partners{
+    width:250px;
+    height:250px;
+    margin: 200px
+}
+.underreleases{
+    text-align: center;
+    color:white;
+}
+.divimg{
+    margin:20px;
+    border:5px;
+    border-color: black;
+    width: 250px;
+}
