@@ -19,14 +19,16 @@ nav li{
     float: right;
     color:wheat;
 }
-.mainblock{
+nav li a{
+    color:wheat;
+    font-size: 30px
 }
 .dunk1{
  border: 5px;
  border-color:teal;
  margin:150px 20px;
 }
-}
+
 article{
     text-align: center;
 }
